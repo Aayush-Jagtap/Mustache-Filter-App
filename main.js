@@ -2,7 +2,7 @@ noseX = 0;
 noseY = 0;
 
 function preload(){
-    clown_nose = loadImage("mustache.png");
+    clown_nose = loadImage("mustache_1.png");
 }
 
 function setup()
